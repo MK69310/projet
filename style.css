@@ -256,16 +256,6 @@ header button {
     text-align: center;
     padding: 0 12%; 
 }
-#contact {
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    text-align: center;
-    padding: 0 12%;
-    
-}
 .localisation_contact_div {
     display: flex;
     align-items: center;
@@ -446,4 +436,10 @@ a{
         border-top: 1px solid #ccc;
         border-bottom: 1px solid #ccc;
     }
+}
+.a{
+    font-size: 25px;
+}
+.icons a{
+    font-size: 25px;
 }
